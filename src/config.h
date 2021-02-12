@@ -15,12 +15,12 @@ Block characters are shown inside this comment. If you can't see them, then your
 	█ ▄ ▀ ●
 	*/
 //---------------------------------------------------------------------------------------------
-#define USERTEXT    "     USER"//
-#define DISROTEXT   "   DISTRO"//
-#define KERNELTEXT  "   KERNEL"//
-#define UPTIMETEXT  "   UPTIME"//
-#define SHELLTEXT   "    SHELL"//
-#define PACKAGETEXT "     PKGS"//
+#define USERTEXT    ""
+#define DISROTEXT   ""
+#define KERNELTEXT  ""
+#define UPTIMETEXT  ""
+#define SHELLTEXT   ""
+#define PACKAGETEXT ""
 //---------------------------------------------------------------------------------------------
 #define TEXTCOLOUR WHITE
 //---------------------------------------------------------------------------------------------
