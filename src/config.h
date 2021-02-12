@@ -5,8 +5,8 @@
 //---------------------------------------------------------------------------------------------
 #define SHELLPATH 1
 //---------------------------------------------------------------------------------------------
-#define BLOCKS 1
-#define BLOCKCHAR " ██"
+#define BLOCKS 0
+#define BLOCKCHAR " ●"
 	/*
 Block characters are shown inside this comment. If you can't see them, then your current font doesn't support them
 
